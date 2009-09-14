@@ -1,6 +1,6 @@
 #tweets
-  = render :partial => "tweet", :collection => @tweets if @tweets
-
-- if current_user && current_user.can_fetch_more_tweets?
-  %script{ :type => "text/javascript" }
-    = remote_function :method => :get, :before => "$('spinner').show()", :complete => "$('spinner').hide()"
+  = render :partial => "tweets", :object => @tweets
+- if @tweets && current_user && current_user.can_fetch_more_tweets?
+  - if is_on_first_page_of_tweets?
+    %script{ :type => "text/javascript" }
+      = remote_function :method => :get, :before => "$('spinner').show()", :complete => "$('spinner').hide()"

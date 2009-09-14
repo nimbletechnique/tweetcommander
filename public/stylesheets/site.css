@@ -66,3 +66,12 @@ body {
 .tweet_body {
 	font-size: 0.8em;
 }
+
+.will_paginate {
+	color: #555;
+	font-size: 0.8em;
+}
+
+.will_paginate a, .will_paginate a:visited {
+	color: #555;
+}

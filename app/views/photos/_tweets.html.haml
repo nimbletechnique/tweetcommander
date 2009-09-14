@@ -1,0 +1,4 @@
+- if tweets
+  .will_paginate
+    = will_paginate tweets
+  = render :partial => "tweet", :collection => tweets if tweets
