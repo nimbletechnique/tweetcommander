@@ -10,16 +10,17 @@
     %title Tweet Commander
   %body
     .container
-      #logo{ :class => "span 24 last" }
-        = link_to image_tag("logo.png"), root_path
       #header{ :class => "span 24 last" }
-        - if logged_in?
-          Logged In as
-          = twitter_user_screen_name
-          = link_to "not #{twitter_user_screen_name}?", logout_path
-        - else
-          = link_to "login", login_path
-          with your Twitter account.
+        = link_to image_tag("logo.png"), root_path
+        %span{ :id => "auth" }
+          - if logged_in?
+            Logged In as
+            = twitter_user_screen_name
+            = "(" + link_to("Logout", logout_path) + "}"
+          - else
+            = link_to "login", login_path
+            with your Twitter account.
+        %br.clear
         = image_tag "ajax-loader.gif", :id => "spinner", :style => "display: none;"
       #content{ :class => "span 24 last" }
         = yield
