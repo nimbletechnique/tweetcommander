@@ -17,6 +17,15 @@ body {
 	color: #555;
 }
 
+#auth img {
+	width: 25px;
+	margin-right: 10px;
+}
+
+#auth a, #auth a:visited {
+	color: #aaa;
+}
+
 #content {
 	margin-top: 30px;
 }

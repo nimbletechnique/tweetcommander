@@ -14,9 +14,9 @@
         = link_to image_tag("logo.png"), root_path
         %span{ :id => "auth" }
           - if logged_in?
-            Logged In as
-            = twitter_user_screen_name
-            = "(" + link_to("Logout", logout_path) + "}"
+            = image_tag current_user.profile_image_url
+            = current_user.screen_name
+            = link_to("Logout", logout_path)
           - else
             = link_to "login", login_path
             with your Twitter account.
