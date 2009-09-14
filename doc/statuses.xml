@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Fri Sep 11 16:40:35 +0000 2009</created_at>
+  <id>3914522249</id>
+  <text>apparently @github's new servers are ready, just need data migrated over http://bit.ly/3t4orq I, for one, welcome our new GFS-less GitHubs</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>13518</id>
+    <name>Jesse Newland</name>
+    <screen_name>jnewland</screen_name>
+    <location>Alpharetta, GA</location>
+    <description>Ruby/Rails Hacker. Awesomeness Engineer of Superb Versatility @railsmachine</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/256659445/4545_611512222654_21304953_36279360_4996512_n_normal.jpg</profile_image_url>
+    <url>http://jnewland.com</url>
+    <protected>false</protected>
+    <followers_count>878</followers_count>
+    <profile_background_color>FFFFFF</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>07671C</profile_link_color>
+    <profile_sidebar_fill_color>EBEBEB</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>07671C</profile_sidebar_border_color>
+    <friends_count>442</friends_count>
+    <created_at>Tue Nov 21 14:21:16 +0000 2006</created_at>
+    <favourites_count>272</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/13492/ccontainer.gif</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>2627</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:35:16 +0000 2009</created_at>
+  <id>3914416005</id>
+  <text>In Focus: Hugging Up 76,000 Percent http://ow.ly/15OEeo</text>
+  <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14075928</id>
+    <name>The Onion</name>
+    <screen_name>TheOnion</screen_name>
+    <location>FishTime</location>
+    <description>America's Finest News Source</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/334357688/onion_logo_03_L_normal.png</profile_image_url>
+    <url>http://www.theonion.com</url>
+    <protected>false</protected>
+    <followers_count>1629478</followers_count>
+    <profile_background_color>006933</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>375099</friends_count>
+    <created_at>Tue Mar 04 02:48:37 +0000 2008</created_at>
+    <favourites_count>6</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/25775614/background4.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>3174</statuses_count>
+    <notifications></notifications>
+    <verified>false</verified>
+    <following></following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:35:16 +0000 2009</created_at>
+  <id>3914415896</id>
+  <text>Does This Man Know He's About To Get His Achilles Tendon Slashed? http://ow.ly/15OEen</text>
+  <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14075928</id>
+    <name>The Onion</name>
+    <screen_name>TheOnion</screen_name>
+    <location>FishTime</location>
+    <description>America's Finest News Source</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/334357688/onion_logo_03_L_normal.png</profile_image_url>
+    <url>http://www.theonion.com</url>
+    <protected>false</protected>
+    <followers_count>1629478</followers_count>
+    <profile_background_color>006933</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>375099</friends_count>
+    <created_at>Tue Mar 04 02:48:37 +0000 2008</created_at>
+    <favourites_count>6</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/25775614/background4.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>3174</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:34:25 +0000 2009</created_at>
+  <id>3914398625</id>
+  <text>http://twitpic.com/hblec  um google reader power users ad? wtf?</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>17234882</id>
+    <name>Kyle Shank</name>
+    <screen_name>kyleshank</screen_name>
+    <location>*not* california</location>
+    <description>building things.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/110178338/cda1d97d702b46ef3b64a406b7745d28_normal.jpeg</profile_image_url>
+    <url>http://www.kyleshank.com</url>
+    <protected>false</protected>
+    <followers_count>150</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>127</friends_count>
+    <created_at>Fri Nov 07 17:35:57 +0000 2008</created_at>
+    <favourites_count>2</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1252003675/images/themes/theme1/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>706</statuses_count>
+    <notifications></notifications>
+    <verified>false</verified>
+    <following></following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:34:08 +0000 2009</created_at>
+  <id>3914392975</id>
+  <text>Create Inset Typography in Photoshop http://bit.ly/jG94B</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>21570727</id>
+    <name>Cory </name>
+    <screen_name>Reencoded</screen_name>
+    <location>California, USA</location>
+    <description>Reencoded dot com is a web design blog with useful tips for freelancers and anyone interested in design. </description>
+    <profile_image_url>http://a3.twimg.com/profile_images/87689037/reencoded1_normal.jpg</profile_image_url>
+    <url>http://www.reencoded.com</url>
+    <protected>false</protected>
+    <followers_count>9051</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>009c03</profile_link_color>
+    <profile_sidebar_fill_color>eded25</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>ffffff</profile_sidebar_border_color>
+    <friends_count>8819</friends_count>
+    <created_at>Sun Feb 22 15:14:06 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-32400</utc_offset>
+    <time_zone>Alaska</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/35959897/spikes.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>421</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:29:45 +0000 2009</created_at>
+  <id>3914303003</id>
+  <text>Jim McBeath: Scala Parser Combinators http://ff.im/-7XgEH</text>
+  <source>&lt;a href=&quot;http://friendfeed.com&quot; rel=&quot;nofollow&quot;&gt;FriendFeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>28494810</id>
+    <name>Bubbl Scala Feed</name>
+    <screen_name>bubbl_scala</screen_name>
+    <location>teh Interwebs</location>
+    <description>Extending the success of the Java News Net @bubbl to Scala brought to you by @dshaw</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/119674583/bubbl_scala_4_avatar_normal.png</profile_image_url>
+    <url>http://dshaw.com</url>
+    <protected>false</protected>
+    <followers_count>331</followers_count>
+    <profile_background_color>8596AA</profile_background_color>
+    <profile_text_color>030202</profile_text_color>
+    <profile_link_color>C41A27</profile_link_color>
+    <profile_sidebar_fill_color>33506F</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>171939</profile_sidebar_border_color>
+    <friends_count>78</friends_count>
+    <created_at>Fri Apr 03 03:45:06 +0000 2009</created_at>
+    <favourites_count>6</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/7370343/Picture_2.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>8500</statuses_count>
+    <notifications></notifications>
+    <verified>false</verified>
+    <following></following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:29:45 +0000 2009</created_at>
+  <id>3914302985</id>
+  <text>Scala Distribution | The Scala Programming Language http://ff.im/-7XgEF</text>
+  <source>&lt;a href=&quot;http://friendfeed.com&quot; rel=&quot;nofollow&quot;&gt;FriendFeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>28494810</id>
+    <name>Bubbl Scala Feed</name>
+    <screen_name>bubbl_scala</screen_name>
+    <location>teh Interwebs</location>
+    <description>Extending the success of the Java News Net @bubbl to Scala brought to you by @dshaw</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/119674583/bubbl_scala_4_avatar_normal.png</profile_image_url>
+    <url>http://dshaw.com</url>
+    <protected>false</protected>
+    <followers_count>331</followers_count>
+    <profile_background_color>8596AA</profile_background_color>
+    <profile_text_color>030202</profile_text_color>
+    <profile_link_color>C41A27</profile_link_color>
+    <profile_sidebar_fill_color>33506F</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>171939</profile_sidebar_border_color>
+    <friends_count>78</friends_count>
+    <created_at>Fri Apr 03 03:45:06 +0000 2009</created_at>
+    <favourites_count>6</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/7370343/Picture_2.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>8500</statuses_count>
+    <notifications></notifications>
+    <verified>false</verified>
+    <following></following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:25:44 +0000 2009</created_at>
+  <id>3914222129</id>
+  <text>In Focus: Al Qaeda Also Fed Up With Ground Zero Construction Delays http://ow.ly/oZmM</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14075928</id>
+    <name>The Onion</name>
+    <screen_name>TheOnion</screen_name>
+    <location>FishTime</location>
+    <description>America's Finest News Source</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/334357688/onion_logo_03_L_normal.png</profile_image_url>
+    <url>http://www.theonion.com</url>
+    <protected>false</protected>
+    <followers_count>1629436</followers_count>
+    <profile_background_color>006933</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>375099</friends_count>
+    <created_at>Tue Mar 04 02:48:37 +0000 2008</created_at>
+    <favourites_count>6</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/25775614/background4.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>3172</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:22:50 +0000 2009</created_at>
+  <id>3914163880</id>
+  <text>Gonna be a fun weekend!!  http://yfrog.com/096foj</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14009722</id>
+    <name>Shay Arnett</name>
+    <screen_name>shayarnett</screen_name>
+    <location>iPhone: 37.120117,-84.105606</location>
+    <description>Husband, Father, Rubyist</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/70916544/face2_normal.jpg</profile_image_url>
+    <url>http://shayarnett.com</url>
+    <protected>false</protected>
+    <followers_count>206</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>333</profile_text_color>
+    <profile_link_color>2FC2EF</profile_link_color>
+    <profile_sidebar_fill_color>eee</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>eee</profile_sidebar_border_color>
+    <friends_count>190</friends_count>
+    <created_at>Tue Feb 26 15:56:24 +0000 2008</created_at>
+    <favourites_count>2</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/3092527/fat-stripe.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>1457</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:20:02 +0000 2009</created_at>
+  <id>3914107008</id>
+  <text>RT @dharmesh: Things you get from a startup: Meet exceptional people, learn useful things, make money.  Make sure to get at least 2 of 3.</text>
+  <source>&lt;a href="http://www.tweetdeck.com/" rel="nofollow"&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14290415</id>
+    <name>David Gerzof</name>
+    <screen_name>davidgerzof</screen_name>
+    <location>Boston</location>
+    <description>By day I run BIGfish, at night I masquerade as an Emerson Social Media Professor &amp; blog on MobileTech &amp; CleanTech - Feed Me great design, tech &amp; science.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/270419291/Dave_Iran_normal.jpg</profile_image_url>
+    <url>http://bit.ly/BIGfish</url>
+    <protected>false</protected>
+    <followers_count>12757</followers_count>
+    <profile_background_color>000000</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>073492</profile_link_color>
+    <profile_sidebar_fill_color>9dc2fb</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>717d8e</profile_sidebar_border_color>
+    <friends_count>11407</friends_count>
+    <created_at>Thu Apr 03 04:40:41 +0000 2008</created_at>
+    <favourites_count>9</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/9851330/twitterbkgd2.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>785</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:08:08 +0000 2009</created_at>
+  <id>3913868137</id>
+  <text>U.S. Coast Guard Chief of Staff says &quot;shots&quot; heard on radio training frequency were being simulated by a person, no real shots.</text>
+  <source>&lt;a href=&quot;http://www.bnonews.com/&quot; rel=&quot;nofollow&quot;&gt;BNO Headquarters&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>6017542</id>
+    <name>BNO News</name>
+    <screen_name>BreakingNews</screen_name>
+    <location>Global</location>
+    <description>Live breaking news and developing stories non-stop from America and every corner of the World. Since 2007, the fastest Twitter-based news service.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/409188311/bnoremembers_normal.jpg</profile_image_url>
+    <url>http://www.bnonews.com</url>
+    <protected>false</protected>
+    <followers_count>1152672</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>990000</profile_link_color>
+    <profile_sidebar_fill_color>F3F3F3</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>DFDFDF</profile_sidebar_border_color>
+    <friends_count>7</friends_count>
+    <created_at>Sun May 13 23:06:45 +0000 2007</created_at>
+    <favourites_count>3225</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/5594022/background.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>26030</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:07:52 +0000 2009</created_at>
+  <id>3913863112</id>
+  <text>How to Create Inset Typography in Photoshop (incl. free PSD) - http://bit.ly/23ImgS (via @sixrevisions)</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>15736190</id>
+    <name>Smashing Magazine</name>
+    <screen_name>smashingmag</screen_name>
+    <location>Saarbruecken, Germany</location>
+    <description>Vitaly Friedman, editor-in-chief of Smashing Magazine (www.smashingmagazine.com), an online magazine dedicated to designers and developers.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/351078599/twitterProfilePhoto_normal.jpg</profile_image_url>
+    <url>http://www.smashingmagazine.com</url>
+    <protected>false</protected>
+    <followers_count>69507</followers_count>
+    <profile_background_color>BADFCD</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>324</friends_count>
+    <created_at>Tue Aug 05 14:00:40 +0000 2008</created_at>
+    <favourites_count>3</favourites_count>
+    <utc_offset>-10800</utc_offset>
+    <time_zone>Greenland</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1252620925/images/themes/theme12/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>4134</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:07:27 +0000 2009</created_at>
+  <id>3913854737</id>
+  <text>Ahhh fresh install ... how light you feel.  I'm certain that *this* is the time that I will avoid cruftifying you. (via @fogus)</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>45966787</id>
+    <name>Paul Snively</name>
+    <screen_name>psnively</screen_name>
+    <location>Los Angeles</location>
+    <description>Java/Scala/OCaml Hacker, Libertarian nutjob</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/377909184/PaulSnively_Headshot_normal.png</profile_image_url>
+    <url>http://lambda-the-ultimate.org</url>
+    <protected>false</protected>
+    <followers_count>456</followers_count>
+    <profile_background_color>709397</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>FF3300</profile_link_color>
+    <profile_sidebar_fill_color>A0C5C7</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>86A4A6</profile_sidebar_border_color>
+    <friends_count>228</friends_count>
+    <created_at>Tue Jun 09 22:42:46 +0000 2009</created_at>
+    <favourites_count>1</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1252448032/images/themes/theme6/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>4405</statuses_count>
+    <notifications></notifications>
+    <verified>false</verified>
+    <following></following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 16:01:15 +0000 2009</created_at>
+  <id>3913731351</id>
+  <text>I love it when my &quot;done&quot; list gets longer than my &quot;to do&quot; list.</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14246143</id>
+    <name>Ryan Bates</name>
+    <screen_name>rbates</screen_name>
+    <location>Southern Oregon</location>
+    <description>Producer of Railscasts - Free Ruby on Rails Screencasts</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/52189024/ryan_bates_cropped_normal.jpg</profile_image_url>
+    <url>http://railscasts.com</url>
+    <protected>false</protected>
+    <followers_count>2978</followers_count>
+    <profile_background_color>C6E2EE</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>1c95c4</profile_link_color>
+    <profile_sidebar_fill_color>f2f2f2</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>b3b3b3</profile_sidebar_border_color>
+    <friends_count>212</friends_count>
+    <created_at>Fri Mar 28 19:10:25 +0000 2008</created_at>
+    <favourites_count>31</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1252097501/images/themes/theme2/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>1790</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 15:55:44 +0000 2009</created_at>
+  <id>3913618023</id>
+  <text>Coast Guard statement on D.C. exercise that caused panic: http://news.bnonews.com/v9yy</text>
+  <source>&lt;a href=&quot;http://www.bnonews.com/&quot; rel=&quot;nofollow&quot;&gt;BNO Headquarters&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>6017542</id>
+    <name>BNO News</name>
+    <screen_name>BreakingNews</screen_name>
+    <location>Global</location>
+    <description>Live breaking news and developing stories non-stop from America and every corner of the World. Since 2007, the fastest Twitter-based news service.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/409188311/bnoremembers_normal.jpg</profile_image_url>
+    <url>http://www.bnonews.com</url>
+    <protected>false</protected>
+    <followers_count>1152610</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>990000</profile_link_color>
+    <profile_sidebar_fill_color>F3F3F3</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>DFDFDF</profile_sidebar_border_color>
+    <friends_count>7</friends_count>
+    <created_at>Sun May 13 23:06:45 +0000 2007</created_at>
+    <favourites_count>3225</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/5594022/background.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>26028</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 15:39:19 +0000 2009</created_at>
+  <id>3913292335</id>
+  <text>David Byrne, &quot;Inevitably someone will hack the Kindle + books will become ... infinitely reproducible, just like MP3s.&quot; http://j.mp/SvF2y</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>62046545</id>
+    <name>ThatWhichMatter</name>
+    <screen_name>thatwhichmatter</screen_name>
+    <location>Brooklyn, New York</location>
+    <description>To honor the that/which distinction, and all grammar that which matters. (Tips, please, to: tipsthatmatter [at] gmail.com.)</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/342815326/Picture_3_normal.png</profile_image_url>
+    <url>http://thatwhichmatter.tumblr.com/</url>
+    <protected>false</protected>
+    <followers_count>6774</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>009eb3</profile_link_color>
+    <profile_sidebar_fill_color>f4f4f4</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>81949a</profile_sidebar_border_color>
+    <friends_count>226</friends_count>
+    <created_at>Sat Aug 01 14:46:38 +0000 2009</created_at>
+    <favourites_count>31</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Quito</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/35953373/106226535_3241bc3db7_o.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>223</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 15:28:07 +0000 2009</created_at>
+  <id>3913069873</id>
+  <text>Woman finds herself in a famous photo by Robert Frank years later: http://bit.ly/VyHSl</text>
+  <source>&lt;a href=&quot;http://apiwiki.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>37971731</id>
+    <name>Michael Zhang</name>
+    <screen_name>petapixel</screen_name>
+    <location>Berkeley, California</location>
+    <description>A photography blog for the Web 2.0 generation. We also tweet the tastiest photo links on the web!</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/211156611/avatar_normal.jpg</profile_image_url>
+    <url>http://petapixel.com</url>
+    <protected>false</protected>
+    <followers_count>12723</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>2855e9</profile_link_color>
+    <profile_sidebar_fill_color>f5f5f5</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>dfe3ed</profile_sidebar_border_color>
+    <friends_count>3230</friends_count>
+    <created_at>Tue May 05 17:28:51 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/22970429/twitterbg.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>808</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 15:21:15 +0000 2009</created_at>
+  <id>3912936285</id>
+  <text>Any ideas for some designs/layouts that incorporate interesting use of the Z-index property? #smzindex</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>15736190</id>
+    <name>Smashing Magazine</name>
+    <screen_name>smashingmag</screen_name>
+    <location>Saarbruecken, Germany</location>
+    <description>Vitaly Friedman, editor-in-chief of Smashing Magazine (www.smashingmagazine.com), an online magazine dedicated to designers and developers.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/351078599/twitterProfilePhoto_normal.jpg</profile_image_url>
+    <url>http://www.smashingmagazine.com</url>
+    <protected>false</protected>
+    <followers_count>69490</followers_count>
+    <profile_background_color>BADFCD</profile_background_color>
+    <profile_text_color>0C3E53</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>FFF7CC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>F2E195</profile_sidebar_border_color>
+    <friends_count>324</friends_count>
+    <created_at>Tue Aug 05 14:00:40 +0000 2008</created_at>
+    <favourites_count>3</favourites_count>
+    <utc_offset>-10800</utc_offset>
+    <time_zone>Greenland</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1252620925/images/themes/theme12/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>4133</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 15:19:28 +0000 2009</created_at>
+  <id>3912900960</id>
+  <text>The ultimate Starbucks Office http://bit.ly/iTogN
+ (via @grobertson)</text>
+  <source>&lt;a href="http://www.atebits.com/" rel="nofollow"&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>9866582</id>
+    <name>Christina Warren</name>
+    <screen_name>film_girl</screen_name>
+    <location>Atlanta, GA</location>
+    <description>I'm 26. I'm a writer for Mashable, a voice on @TheFlickcast and a sometimes designer. I rule. If I don't follow you back @ me and I'll do it!</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/366432029/head-test150_normal.jpg</profile_image_url>
+    <url>http://www.christinawarren.com</url>
+    <protected>false</protected>
+    <followers_count>9577</followers_count>
+    <profile_background_color>514739</profile_background_color>
+    <profile_text_color>663B12</profile_text_color>
+    <profile_link_color>1F98C7</profile_link_color>
+    <profile_sidebar_fill_color>DAECF4</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>c6e2EE</profile_sidebar_border_color>
+    <friends_count>2391</friends_count>
+    <created_at>Thu Nov 01 22:45:37 +0000 2007</created_at>
+    <favourites_count>91</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/3616544/main-bg-1.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>11393</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Fri Sep 11 15:15:06 +0000 2009</created_at>
+  <id>3912815866</id>
+  <text>GridGain - Cloud Development Platform : Weblog http://ff.im/-7X5eA</text>
+  <source>&lt;a href=&quot;http://friendfeed.com&quot; rel=&quot;nofollow&quot;&gt;FriendFeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>28494810</id>
+    <name>Bubbl Scala Feed</name>
+    <screen_name>bubbl_scala</screen_name>
+    <location>teh Interwebs</location>
+    <description>Extending the success of the Java News Net @bubbl to Scala brought to you by @dshaw</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/119674583/bubbl_scala_4_avatar_normal.png</profile_image_url>
+    <url>http://dshaw.com</url>
+    <protected>false</protected>
+    <followers_count>331</followers_count>
+    <profile_background_color>8596AA</profile_background_color>
+    <profile_text_color>030202</profile_text_color>
+    <profile_link_color>C41A27</profile_link_color>
+    <profile_sidebar_fill_color>33506F</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>171939</profile_sidebar_border_color>
+    <friends_count>78</friends_count>
+    <created_at>Fri Apr 03 03:45:06 +0000 2009</created_at>
+    <favourites_count>6</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/7370343/Picture_2.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <statuses_count>8498</statuses_count>
+    <notifications>true</notifications>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+</status>
+</statuses>

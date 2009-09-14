@@ -1,0 +1,49 @@
+body {
+	background: #c4e0ed;
+	font-size: 1.5em;
+}
+
+#logo {
+	margin-top: 20px;
+}
+
+#header {
+	margin-top: 0px;
+}
+
+#content {
+	margin-top: 10px;
+}
+
+.tweet {
+	background: white;
+	margin-top: 10px;
+}
+
+.tweet_content {
+	margin-left: 50px;
+	padding-left: 10px;
+}
+
+.tweet_photo {
+	float: left;
+	width: 50px;
+	padding: 5px;
+}
+
+.tweet_photo img {
+	width: 50px;
+}
+
+.tweet_author {
+	font-size: 0.7em;
+}
+
+.tweet_time {
+	color: #888;
+	font-size: 0.5em;
+}
+
+.tweet_body {
+	font-size: 0.8em;
+}

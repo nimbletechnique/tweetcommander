@@ -1,0 +1,12 @@
+.tweet
+
+  - unless tweet.user.profile_image_url.blank?
+    .tweet_photo
+      = image_tag tweet.user.profile_image_url
+  .tweet_content
+    .tweet_author
+      = tweet.user.screen_name
+    .tweet_time
+      = tweet.twitter_created_at
+    .tweet_body
+      = sanitize(tweet.body)
